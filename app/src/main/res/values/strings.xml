@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Text to speech test</string>
+    <string name="song_text_input_content_description">Song text input</string>
+    <string name="say_button_text">Say</string>
+</resources>
